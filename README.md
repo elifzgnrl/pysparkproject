@@ -13,7 +13,7 @@ Bu repo, Databricks üzerinde yapılan satış analizi çalışmasını içerir.
 1. `sales_csv.txt` ve `menu_csv.txt` dosyalarını `/FileStore/tables/` dizinine yükleyin.
 2. Notebook'u Databricks üzerinde açın ve çalıştırın.
 
-## DAsboard
+## Dasboard
 
 Burdan görüntüleyebilirsiniz ↓
 
